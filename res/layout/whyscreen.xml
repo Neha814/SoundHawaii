@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/bg"
+    xmlns:app="http://schemas.android.com/apk/res/com.app.soundhawaii" >
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:background="#1b3768"
+    	android:titleTextAppearance="@style/MyTextApperance"
+    	>
+        
+    </android.support.v7.widget.Toolbar>
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="@string/why_text"
+        android:padding="3dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+
+</LinearLayout>

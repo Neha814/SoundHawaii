@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SoundHawaii</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dummytext">fkjdjfkdjkfjdkfjdkjfkdjfkjdkfhfk</string>
+    <string name="why_text">The Sounds of Hawaii app was created for visitors to listen to the meditative sounds that Hawaii naturally emits. Whether on the plane coming to Hawaii or taking the sounds with you going home you can take a piece of Hawaii with you everywhere you go.</string>
+    <string name="Hawaiian_Vocabulary">Hawaiian Vocabulary</string>
+    <!--
+    <string name="mahalo">Mahalo(Ma-ha-lo)- Meaning \n Thank you, Gratitude, Respects, Regards.</string>
+    <string name="aloha">Aloha(Ah-lo-ha)- Meaning \n Love, Affection, Caring, Hello, Goodbye, Greetings.</string>
+    <string name="poke">Poke(Poh-keh)- \n Is raw seafood usually raw fish cut up into cubes marinated in a type of soy sauce.</string>
+    <string name="ono">Ono(Oh-no)- Meaning \n delicious, referring  to good tasting food.</string>
+    <string name="pupu">Pupu(Poo-poo)-Means  \n Appitizer, snack.</string>
+    <string name="pau">Pau(Pow)-Meaning \n Finished or done.</string>
+    <string name="ohana">Ohana(Oh-ha-na)-Meaning \n Family but mostly used even when blood relation is not present.</string>
+    <string name="keiki">Keiki(Kay-Key)-Meaning \n Children or Child</string>
+    <string name="lanai">Lanai(La-na-ee)-Meaning\n  Balcony or Patio</string>
+    -->
+    <string name="Conch_shell">Conch shell</string>
+    <string name="Dolphins">Dolphins</string>
+    <string name="Hawaii_Birds">Hawaii Birds</string>
+    <string name="Hawaii_Rain">Hawaii Rain</string>
+    <string name="Hawaii_Waves">Hawaii Waves</string>
+    <string name="Lava_Flow">Lava Flow</string>
+    <string name="Manoa_Falls">Manoa Falls</string>
+    <string name="The_Ukulele">The Ukulele</string>
+    <string name="Underwater_Ambiance">Underwater Ambiance</string>
+    <string name="Walking_on_the_Beach">Walking on the Beach</string>
+    <string name="Sounds_of_Hawaii">Sounds of Hawaii</string>
+    <string name="The_Islands_of_Hawaii">The Islands of Hawaii</string>
+    <string name="play_sound">Play Sound:</string>
+    <string name="with_ambiance">With Ambiance</string>
+    <string name="sound_alone">Sound Alone</string>
+    <string name="set_language">Set Language</string>
+    <string name="english">English</string>
+    <string name="japanese">Japanese</string>
+    <string name="thank_you">Thank you, Gratitude, Respects, Regards</string>
+    <string name="mahalo">Mahalo(Ma-ha-lo)</string>
+    <string name="aloha">Aloha(Ah-lo-ha)</string>
+    <string name="poke">Poke(Poh-keh)</string>
+    <string name="ono">Ono(Oh-no)</string>
+    <string name="pupu">Pupu(Poo-poo)</string>
+    <string name="pau">Pau(Pow)</string>
+    <string name="ohana">Ohana(Oh-ha-na)</string>
+    <string name="keiki">Keiki(Kay-Key)</string>
+    <string name="lanai">Lanai(La-na-ee)</string>
+    <string name="aloha_text">Love, Affection, Caring, Hello, Goodbye, Greetings.</string>
+    <string name="poke_text">Is raw seafood usually raw fish cut up into cubes marinated in a type of soy souce</string>
+    <string name="ono_text">Delicious, referring  to good tasting food.</string>
+    <string name="pupu_text">Appitizer, snack</string>
+    <string name="pau_text">Finished or done</string>
+    <string name="ohana_text">Family but mostly used even when blood relation is not present</string>
+    <string name="keiki_text">Children or Child</string>
+    <string name="lanai_text">Balcony or Patio</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="sound_hawaii">Sound Hawaii</string>
+    <string name="hawaii_waves">Hawaii Waves</string>
+    <string name="manao_falls">Manao Falls</string>
+    <string name="underwater">Underwater</string>
+    <string name="hawaii_birds">Hawaii Birds</string>
+    <string name="hawaii_rain">Hawaii Rain</string>
+    <string name="lava_flow">Lava Flow</string>
+    <string name="conch_shell">Conch Shell</string>
+    <string name="dolphins">Dolphins</string>
+    <string name="walking_beach">Walking on the beach</string>
+    <string name="ukulele">The ukulele</string>
+    <string name="specialthankstitle">Special Thanks</string>
+    <string name="specialthanks">Special Thanks and Mahalo</string>
+    <string name="photo_credit">Photo Credit :</string>
+    <string name="photo_credit1">Dontez Coleman</string>
+    <string name="photo_credit2">Z2aMiller</string>
+    <string name="photo_credit3">Shawn McCready</string>
+    <string name="photo_credit4"> Ani Carrington</string>
+    <string name="photo_credit5">Morguefile.com</string>
+    <string name="sound_credit">Sound Credit :</string>
+    <string name="sound_credit1">Andy Rhodes</string>
+    <string name="sound_credit2">Dontez Coleman</string>
+    
+        <string name="set_sound_alarm">Set Sound as alarm</string>
+    <string name="videos">Videos</string>
+    <string name="hawaii_vocab">Hawaiian Vocabulary</string>
+    <string name="www">www.inscentshawaii.com</string>
+    <string name="language">言語</string>
+
+</resources>
